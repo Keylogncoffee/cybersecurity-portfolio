@@ -11,8 +11,8 @@ Cybersecurity analyst and technical writer focused on security research, threat 
 
 ## 🎓 Certifications & Training
 
-- **IBM Cybersecurity Certification**
-- **Cisco Cybersecurity Certification**
+- **IBM Cybersecurity Fundamentals**
+- **Cisco Networking Academy - Introduction to Cybersecurity Badge**
 - **TryHackMe** - Active learner and room completions
 - **ISC2 Certified in Cybersecurity (CC)** - In Progress
 
