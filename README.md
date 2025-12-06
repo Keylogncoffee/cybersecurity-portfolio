@@ -41,7 +41,7 @@ Cybersecurity analyst and technical writer focused on security research, threat 
 
 ## 📁 Projects
 
-*Projects coming soon - currently building security tools and documentation*
+1. **[Password Strength Analyzer](./password_analyzer.py)** - CLI tool for evaluating password security ([Documentation](./password-analyzer-README.md))
 
 ### Upcoming Projects:
 1. **Password Security Analyzer** - Tool for assessing password strength and breach checking
