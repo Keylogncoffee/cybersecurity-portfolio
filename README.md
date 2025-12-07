@@ -42,12 +42,10 @@ Cybersecurity analyst and technical writer focused on security research, threat 
 ## 📁 Projects
 
 1. **[Password Strength Analyzer](./password_analyzer.py)** - CLI tool for evaluating password security ([Documentation](./password-analyzer-README.md))
-
-### Upcoming Projects:
-1. **Password Security Analyzer** - Tool for assessing password strength and breach checking
-2. **Network Port Scanner** - Python-based reconnaissance tool
-3. **Security Log Analyzer** - Automated log parsing for threat detection
-4. **SIEM Detection Rules** - Custom rules for common attack patterns
+2. **[Network Port Scanner](./port_scanner.py)** - Network reconnaissance tool for identifying open ports and services ([Docs](./port-scanner-README.md))
+3. **[Security Log Analyzer](./log_analyzer.py)** - Threat detection tool for analyzing security logs and identifying incidents ([Docs](./log-analyzer-README.md))
+4. **n8n Security Automation** - Coming soon
+5. **AI-Powered Threat Analyzer** - Coming soon
 
 ---
 
