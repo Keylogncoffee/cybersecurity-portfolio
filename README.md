@@ -44,7 +44,7 @@ Cybersecurity analyst and technical writer focused on security research, threat 
 1. **[Password Strength Analyzer](./password_analyzer.py)** - CLI tool for evaluating password security ([Documentation](./password-analyzer-README.md))
 2. **[Network Port Scanner](./port_scanner.py)** - Network reconnaissance tool for identifying open ports and services ([Docs](./port-scanner-README.md))
 3. **[Security Log Analyzer](./log_analyzer.py)** - Threat detection tool for analyzing security logs and identifying incidents ([Docs](./log-analyzer-README.md))
-4. **n8n Security Automation** - Coming soon
+4. **[Automated CVE Monitor](./n8n-cve-monitor/)** - n8n workflow automation for continuous vulnerability monitoring ([Docs](./n8n-cve-monitor/README.md))
 5. **AI-Powered Threat Analyzer** - Coming soon
 
 ---
